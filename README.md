@@ -11,11 +11,15 @@ Under the guidance of:
 Dr.Alamelu Mangai Jothidurai
 Department of Computer Science and Engineering
 [Presidency University, Bangalore]
-April 20261. Introduction
+April 20261. 
+
+
+1. Introduction
+
 Flight delays are a critical issue in modern aviation systems, affecting operational efficiency, airline profitability, and passenger satisfaction. With increasing air traffic, delays have become more frequent and complex due to multiple contributing factors such as weather, congestion, and operational inefficiencies.
 Machine learning provides a powerful approach to analyze historical flight data and predict delays, enabling proactive decision-making. This project focuses on predicting flight delay severity using data-driven techniques.
 
-2. Problem Statement
+3. Problem Statement
 
 The objective of this project is:
 To predict whether a flight will experience a significant delay (≥ 60 minutes) using historical flight data. 
